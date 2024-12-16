@@ -1,1 +1,4 @@
 Hello world test! Bruh
+This is a second test of the 
+default VScode change in the terminal
+for commit messages
