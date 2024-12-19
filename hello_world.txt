@@ -1,4 +1,6 @@
 Hello world test! Bruh
 This is a second test of the 
 default VScode change in the terminal
-for commit messages
+for commit messages.
+Below this is the third test to make sure that
+I have this git process down.
